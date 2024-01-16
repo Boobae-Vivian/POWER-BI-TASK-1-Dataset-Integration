@@ -10,7 +10,7 @@ Organizations often encounter challenges when attempting to integrate external d
 
 - Import the 'Bank Term Deposit Subscription' dataset into Power BI Desktop using the CSV file option.
 
-The problem lies in the potential complexities and uncertainties associated with this data integration process. Users may face issues related to data formatting, compatibility, or simply navigating through Power BI Desktop's features for successful importation.
+The problem lies in the potential complexities and uncertainties associated with this data integration process. Users may face issues related to navigating through Power BI Desktop's features for successful importation.
 
 The task at hand aims to address these challenges by providing a clear and systematic guide on how to efficiently import the specified dataset, ensuring a smooth and error-free integration process within the Power BI environment.
 
