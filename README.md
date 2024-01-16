@@ -51,6 +51,26 @@ STEP 5      | STEP 6
 :------------:|:------------:
 ![](task1d.png)| ![](task1e.png)
 
+- ### STEP 7 and 8
+
+  Upon clicking the "Load" option button, our dataset will be imported into POWER BI successfully. It will be located in the data pane on the right side of the POWER BI environment, highlighted in yellow as shown in the snapshot below. To confirm the successful importation and view the dataset, click on the table view icon situated on the left side of POWER BI, also highlighted in yellow in the snapshot provided below.
+
+STEP 7      | STEP 8
+:------------:|:------------:
+![](task1f.png)| ![](task1g.png)
+
+## CONCLUSION
+
+In conclusion, this task guided us through the seamless process of importing the 'Bank Term Deposit Subscription' dataset into POWER BI. Starting with the initiation of the importation process, we navigated through the POWER BI Desktop environment, selected the dataset source, and established a connection. Emphasizing a focus on data import, we successfully loaded the dataset into POWER BI.
+
+Upon completion, the imported dataset resides in the data pane on the right side of the POWER BI environment, as highlighted in yellow. Verification of the successful importation can be confirmed by clicking on the table view icon, also highlighted in yellow on the left side of POWER BI.
+
+This task provides a foundation for further exploration, analysis, and visualization within the POWER BI environment. By mastering the importation process, users can now leverage the powerful features of POWER BI for meaningful insights and data-driven decision-making.
+
+
+  
+
+
   
 
 
